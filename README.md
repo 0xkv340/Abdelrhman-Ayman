@@ -3,7 +3,7 @@
 </h1></a>
 </h1>
 
-<h6 align="center">Fresh Software Engineering graduate interested in expanding knowledge of various technologies and gaining experience in cybersecurity. Eager to apply technical skills to bolster cybersecurity measures and safeguard digital assets.</h6>
+<h6 align="center">A curious Offensive Security Engineer with a strong passion for understanding how technology works. Continuously eager to learn, explore new technologies, strengthen my technical skills, and deepen my knowledge across various domains. I’m passionate about improving security measures, solving complex problems, and contributing to building resilient and secure digital environments..</h6>
 
 
 
@@ -20,7 +20,7 @@
 ## Connect With Me :
 <p align="left">
 
-<a href="https://www.linkedin.com/in/0xkv340/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/0xk91/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 </p>
